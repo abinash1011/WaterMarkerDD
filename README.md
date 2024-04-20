@@ -1,4 +1,4 @@
-# WaterMarkerDD
+# Watermarkify
 Video Watermarking Tool
 
 ## Video Processing
